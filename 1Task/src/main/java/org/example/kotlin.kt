@@ -6,5 +6,5 @@ class kotlin {
     fun d(): f {
         d
         d
-    }
+    }gg
 }
