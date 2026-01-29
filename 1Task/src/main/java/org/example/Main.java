@@ -12,17 +12,21 @@ package org.example;
             //TESTTESTTEST
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
 
-            System.out.println("i = " + i);
+            System.out.prin
+            tln("i = " + i);
         }
+
         for(int i = 0; i < 10; i++){
             System.out.println(add(i, i));
         }
-        //region ddd
+        //region dddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
         //endregion
     }
     private static int add(int x, int y){
         return x + y;
-    }
-}
-//x
+
+        //region djjjjjjjjjjjsssssssssssssssssssssssssssssss
+
+        //endregion
+
